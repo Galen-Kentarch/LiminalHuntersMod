@@ -11,4 +11,17 @@ Items: {
 			It's snowing on Mt.Fuji
 			'''
 	}
+
+	KylesLightsaber: {
+		DisplayName: Kyles Lightsaber
+		Tooltip: ""
+	}
+
+	KylesSaber: {
+		DisplayName: Kyles Saber
+		Tooltip: ""
+	}
 }
+
+DamageClasses.CineticDamageClass.DisplayName: Cinetic Damage Class
+Projectiles.KylesSaberParryVfx.DisplayName: Kyles Saber Parry Vfx
